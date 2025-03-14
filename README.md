@@ -47,7 +47,7 @@
 📌 **Descripción:** Un sistema de gestión de clientes con CRUD completo, diseñado con buenas prácticas y tecnologías modernas.  
 
 📌 **Tecnologías utilizadas:**  
-- Frontend: Angular, Bootstrap  
+- Frontend: Pug, Bootstrap  
 - Backend: Node.js, Express  
 - Base de datos: MySQL  
 
