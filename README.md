@@ -51,9 +51,9 @@
 - Backend: Node.js, Express  
 - Base de datos: MySQL  
 
-📌 **Estado:** En desarrollo...  
+📌 **Estado:** En Repositorio
 
-📌 **Repositorio:** _Próximamente_
+📌 **Repositorio:** CRUD
 
 ---
 
